@@ -83,10 +83,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     height: 120,
                     width: 120,
                     child: Image.asset('assets/js.png')),
-                // Container(
-                //   height: 32,
-                //   color: Colors.yellow,
-                // ),
+
                 Center(
                   child: Container(
                       height: 120,
@@ -103,11 +100,8 @@ class _HomeScreenState extends State<HomeScreen> {
                 Container(
                     height: 120,
                     width: 600,
-                    child: Image.asset('assets/uxui.png')),
-                // Container(
-                //   height: 32,
-                //   color: Colors.yellow,
-                // ),
+                    child: Image.asset('assets/uiux.png')),
+
                 Center(
                   child: Container(
                       height: 120,
